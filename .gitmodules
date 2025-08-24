@@ -1,0 +1,3 @@
+[submodule "libpng-jni/src/main/cpp/libpng"]
+	path = libpng-jni/src/main/cpp/libpng
+	url = git@github.com:pnggroup/libpng.git
