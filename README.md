@@ -1,1 +1,1 @@
-# AndroidLibPNG
+# Android-libpng

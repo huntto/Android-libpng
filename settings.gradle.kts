@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidLibPNG"
+rootProject.name = "Android-libpng"
 include(":app")
 include(":libpng-jni")

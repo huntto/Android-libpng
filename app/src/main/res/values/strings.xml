@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidLibPNG</string>
+    <string name="app_name">Android-libpng</string>
     <string name="click_to_test">Click button to test</string>
     <string name="test">Test</string>
     <string name="testing">Test…</string>
